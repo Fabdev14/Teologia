@@ -1,0 +1,25 @@
+CLASE-1: Introduccion: El Reino del pacto.
+CLASE-2:Hebreos: El Reino viene.
+CLASE-3:Introduccion a los evangelios y hechos. La Supremacía del Rey.
+CLASE-4:Mateo:El Rey prometido.
+CLASE-5:Marcos:El Rey siervo.
+CLASE-6:Juan: El Rey Divino.
+CLASE-7:Lucas: La expansion del Reino.
+CLASE-8:El Reino se expande.
+CLASE-9:Introduccion a Pablo: Las verdades del reino.
+CLASE-10:Romanos: Los subditos del Reino.
+CLASE-11:1 Corintios: La necedad del Reino.
+CLASE-12:2 Corintios: La debilidad del Reino.
+CLASE-13:Filipenses:El compañerismo del Reino.
+CLASE-14:1Timoteo.
+CLASE-15:Tito.
+CLASE-16:2 Timoteo.
+CLASE-17:Efesios: La gloria del Reino.
+CLASE-18:Colosenses y Filemon.
+CLASE-19:Galatas.
+CLASE-20:Santiago.
+CLASE-21:1Pedro.
+CLASE-22:2Pedro y Judas: Perseverancia en medio de la falsedad.
+CLASE-23:1,2,3 de Juan.
+CLASE-24:1 Tesalonicenses.La consumacion del Reino.
+CLASE-25: 2 Tesalonincenses:La consumacion del Reino.
